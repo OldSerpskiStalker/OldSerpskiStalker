@@ -1,16 +1,171 @@
-### Hi there 👋
+<h1 align="center">
+  Welcome
+</h2>
 
-<!--
-**OldSerpskiStalker/OldSerpskiStalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    Let me introduce myself! I am <b>OldSerpskiStalker</b>, a software engineer from <b>Russian   Federation</b>
+    <br />
+    Complete list of things I am working with and on is provided on this page
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">
+    Programming languages
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+        <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" />
+    </a>
+    <a href="https://isocpp.org/">
+        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+    </a>
+    <a href="https://www.open-std.org/jtc1/sc22/wg14/">
+        <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" />
+    </a>
+    <a href="https://www.lua.org/">
+        <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white" />
+    </a>
+    <a href="https://www.oracle.com/java/">
+        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=openjdk&logoColor=white" />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/powershell/">
+        <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?&style=flat&logo=powershell&logoColor=white" />
+    </a>
+</div>
+
+<h2 align="center">
+    Game modding
+</h2>
+
+<div align="center">
+    <a>
+        <img src="https://img.shields.io/badge/S.T.A.L.K.E.R.-%23000000.svg?&style=flat&logo=null&logoColor=white" />
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/Minecraft-%23239120.svg?&style=flat&logo=null&logoColor=white" />
+    </a>
+</div>
+
+<h2 align="center">
+    Data structures
+</h2>
+
+<div align="center">
+    <a href="https://www.json.org/json-en.html">
+        <img src="https://img.shields.io/badge/JSON-%23000000.svg?&style=flat&logo=json&logoColor=white" />
+    </a>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Microsoft_Excel/">
+        <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+    </a>
+</div>
+
+<h2 align="center">
+    Frameworks
+</h2>
+
+<div align="center">
+    <a href="https://learn.microsoft.com/en-us/dotnet/">
+        <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?&style=flat&logo=dotnet&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/">
+    <img src="https://img.shields.io/badge/WPF-%23512BD4.svg?&style=flat&logo=dotnet&logoColor=white" />
+  </a>
+</div>
+
+<h2 align="center">
+    Graphics
+</h2>
+
+<div align="center">
+  <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/">
+    <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl" />
+  </a>
+</div>
+
+<h2 align="center">
+    Working with repositories
+</h2>
+
+<div align="center">
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=flat&logo=git&logoColor=white" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://gitlab.com/">
+    <img src="https://img.shields.io/badge/GitLab-%23FCA121.svg?&style=flat&logo=gitlab&logoColor=black" />
+  </a>
+  <a href="https://bitbucket.org/">
+    <img src="https://img.shields.io/badge/Bitbucket-%230052CC.svg?&style=flat&logo=bitbucket&logoColor=white" />
+  </a>
+  <a href="https://github.com/features/actions/">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?&style=flat&logo=github%20actions&logoColor=white" />
+  </a>
+</div>
+
+<h2 align="center">
+    Development environments
+</h2>
+
+<div align="center">
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?&style=flat&logo=visual%20studio&logoColor=white" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&style=flat&logo=visual%20studio%20code&logoColor=white" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/IntelliJ_IDEA/">
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white" />
+  </a>
+  <br />
+</div>
+
+<h2 align="center">
+    Operating systems
+</h2>
+
+<div align="center">
+    <a href="https://en.wikipedia.org/wiki/Windows_10">
+        <img src="https://img.shields.io/badge/Windows_10-%230078D6.svg?&style=flat&logo=windows&logoColor=white" />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/windows/console/">
+        <img src="https://img.shields.io/badge/Windows%20Console-%234D4D4D.svg?&style=flat&logo=windows%20terminal&logoColor=white" />
+    </a>
+    <a href="https://www.virtualbox.org/">
+        <img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?&style=flat&logo=virtualbox&logoColor=white" />
+    </a>
+</div>
+
+<h2 align="center">
+    Build Tools
+</h2>
+
+<div align="center">
+  <a href="https://docs.gradle.org/current/userguide/gradle_wrapper.html">
+        <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white" />
+  </a>
+  <a href="https://maven.apache.org/">
+        <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white" />
+  </a>
+  <a href="https://cmake.org//">
+        <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white" />
+  </a>
+</div>
+
+<h2 align="center">
+    Activity
+</h2>
+
+<p align="center">
+  <a href="https://github.com/OldSerpskiStalker">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OldSerpskiStalker&theme=transparent" />
+  </a>
+  <a href="https://github.com/OldSerpskiStalker">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OldSerpskiStalker&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/OldSerpskiStalker">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OldSerpskiStalker&theme=transparent" />
+  </a>
+</p>
