@@ -8,10 +8,6 @@
     Complete list of things I am working with and on is provided on this page
 </p>
 
-<h2 align="center">
-    Programming languages
-</h2>
-
 <div align="center">
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
         <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" />
@@ -23,7 +19,7 @@
         <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" />
     </a>
     <a href="https://www.lua.org/">
-        <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white" />
+        <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white" />
     </a>
     <a href="https://www.oracle.com/java/">
         <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=openjdk&logoColor=white" />
@@ -31,24 +27,15 @@
     <a href="https://learn.microsoft.com/en-us/powershell/">
         <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?&style=flat&logo=powershell&logoColor=white" />
     </a>
-</div>
-
-<h2 align="center">
-    Game modding
-</h2>
-
-<div align="center">
-    <a>
-        <img src="https://img.shields.io/badge/S.T.A.L.K.E.R.-%23000000.svg?&style=flat&logo=null&logoColor=white" />
+    <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/">
+        <img src="https://img.shields.io/badge/XAML-%230C54C2.svg?&style=flat&logo=xaml&logoColor=white" />
     </a>
-    <a>
-        <img src="https://img.shields.io/badge/Minecraft-%23239120.svg?&style=flat&logo=null&logoColor=white" />
+    <a href="https://docs.avaloniaui.net/docs/basics/user-interface/introduction-to-xaml/">
+        <img src="https://img.shields.io/badge/AXAML-%230C54C2.svg?&style=flat&logo=xaml&logoColor=white" />
     </a>
 </div>
 
-<h2 align="center">
-    Data structures
-</h2>
+<h4 align="center"></h4>
 
 <div align="center">
     <a href="https://www.json.org/json-en.html">
@@ -58,11 +45,12 @@
     <a href="https://en.wikipedia.org/wiki/Microsoft_Excel/">
         <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
     </a>
+    <a href="https://learn.microsoft.com/en-us/sql/">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?&style=flat&logo=microsoft%20sql%20server&logoColor=white" />
+  </a>
 </div>
 
-<h2 align="center">
-    Frameworks
-</h2>
+<h4 align="center"></h4>
 
 <div align="center">
     <a href="https://learn.microsoft.com/en-us/dotnet/">
@@ -73,9 +61,7 @@
   </a>
 </div>
 
-<h2 align="center">
-    Graphics
-</h2>
+<h4 align="center"></h4>
 
 <div align="center">
   <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/">
@@ -83,14 +69,9 @@
   </a>
 </div>
 
-<h2 align="center">
-    Working with repositories
-</h2>
+<h4 align="center"></h4>
 
 <div align="center">
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=flat&logo=git&logoColor=white" />
-  </a>
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white" />
   </a>
@@ -105,9 +86,7 @@
   </a>
 </div>
 
-<h2 align="center">
-    Development environments
-</h2>
+<h4 align="center"></h4>
 
 <div align="center">
   <a href="https://visualstudio.microsoft.com/">
@@ -122,25 +101,26 @@
   <br />
 </div>
 
-<h2 align="center">
-    Operating systems
-</h2>
+<h4 align="center"></h4>
 
 <div align="center">
     <a href="https://en.wikipedia.org/wiki/Windows_10">
         <img src="https://img.shields.io/badge/Windows_10-%230078D6.svg?&style=flat&logo=windows&logoColor=white" />
     </a>
-    <a href="https://learn.microsoft.com/en-us/windows/console/">
-        <img src="https://img.shields.io/badge/Windows%20Console-%234D4D4D.svg?&style=flat&logo=windows%20terminal&logoColor=white" />
-    </a>
-    <a href="https://www.virtualbox.org/">
-        <img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?&style=flat&logo=virtualbox&logoColor=white" />
-    </a>
 </div>
 
-<h2 align="center">
-    Build Tools
-</h2>
+<h4 align="center"></h4>
+
+<div align="center">
+  <a href="https://www.virtualbox.org/">
+        <img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?&style=flat&logo=virtualbox&logoColor=white" />
+    </a>
+  <a href="https://git-scm.com/">
+      <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=flat&logo=git&logoColor=white" />
+  </a>
+</div>
+
+<h4 align="center"></h4>
 
 <div align="center">
   <a href="https://docs.gradle.org/current/userguide/gradle_wrapper.html">
@@ -154,9 +134,20 @@
   </a>
 </div>
 
-<h2 align="center">
+<h4 align="center"></h4>
+
+<div align="center">
+    <a>
+        <img src="https://img.shields.io/badge/S.T.A.L.K.E.R.-%23000000.svg?&style=flat&logo=null&logoColor=white" />
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/Minecraft-%23239120.svg?&style=flat&logo=null&logoColor=white" />
+    </a>
+</div>
+
+<h4 align="center">
     Activity
-</h2>
+</h4>
 
 <p align="center">
   <a href="https://github.com/OldSerpskiStalker">
